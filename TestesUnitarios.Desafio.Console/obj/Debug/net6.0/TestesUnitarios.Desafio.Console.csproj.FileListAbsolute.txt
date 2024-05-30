@@ -1,0 +1,15 @@
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.exe
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.deps.json
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.runtimeconfig.json
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfoInputs.cache
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfo.cs
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.csproj.CoreCompileInputs.cache
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.sourcelink.json
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\refint\TestesUnitarios.Desafio.Console.dll
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.genruntimeconfig.cache
+D:\Pessoal\Visual Studio Code\BootCamp-Avanade-C#-DIO\Desafio-testes-unitario\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\ref\TestesUnitarios.Desafio.Console.dll
